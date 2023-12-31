@@ -189,7 +189,7 @@ This comprehensive Power BI project delves into the analysis of road accident da
 
 ## Power BI App Link
 
-[Link to Power BI App](https://app.powerbi.com/groups/me/apps/c7a9823d-fdec-4184-baa2-fe2bcb19b528/reports/bf1a676b-d7e6-43dc-90db-06a1e3dd09e8/ReportSection?experience=power-bi)
+[Link to Power BI App](https://app.powerbi.com/Redirect?action=OpenApp&appId=c7a9823d-fdec-4184-baa2-fe2bcb19b528&ctid=29d02b7a-fa50-40cc-8d1c-a452a519c6a5)
 
 
 ---
