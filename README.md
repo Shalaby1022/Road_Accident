@@ -1,5 +1,4 @@
 # Road Accident Data Analysis with Power BI
-![England Map Logo](https://your-link-to-england-map-logo.com)
 
 ## Overview
 This comprehensive Power BI project delves into the analysis of road accident data in England, providing valuable insights and actionable information through interactive reports and dashboards. The project covers various critical aspects, from data preprocessing to advanced analytics and visualization techniques, ensuring a holistic understanding of road safety trends.
