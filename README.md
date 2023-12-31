@@ -10,6 +10,7 @@ This comprehensive Power BI project delves into the analysis of road accident da
 - [Data Transformations](#data-transformations)
 - [Measures](#measures)
 - [Relationships](#relationships)
+- [Heat in the Report](#heat-in-the-report)
 - [Power BI Service Link](#power-bi-service-link)
 -  [Power BI App Link](#power-bi-app-link)
 
@@ -109,6 +110,77 @@ This comprehensive Power BI project delves into the analysis of road accident da
 3. **Dynamic RLS Management through Access Control and Calendar Table:**
    - Implemented a relationship between Access Control and Local_Authority_(District) for efficient Dynamic Row-Level Security (RLS) roles.
 
+---
+
+## Heat in the Report
+
+### Slicers for Weather Conditions and Road Surface Conditions
+
+- **Weather Conditions Slicer:**
+  - Allows users to filter the report based on different weather conditions.
+
+- **Road Surface Conditions Slicer:**
+  - Provides flexibility in analyzing data based on road surface conditions.
+
+### Casualties Overview
+
+- **Total Casualties Card:**
+  - Displays the total number of casualties year-to-date.
+
+- **YOY Casualties Growth Card:**
+  - Indicates the percentage of year-over-year growth in total casualties.
+
+### Accidents Overview
+
+- **Total Accidents Card:**
+  - Shows the total number of accidents year-to-date.
+
+- **YOY Accidents Growth Card:**
+  - Illustrates the percentage of year-over-year growth in total accidents.
+
+### Fatal Casualties Analysis
+
+- **Total Fatal Casualties Card:**
+  - Presents the total number of casualties where the accident severity is "Fatal."
+
+- **YOY Fatal Casualties Growth Card:**
+  - Highlights the percentage of year-over-year growth in fatal casualties.
+
+### Serious Casualties Analysis
+
+- **Total Serious Casualties Card:**
+  - Highlights the total number of casualties where the accident severity is "Serious."
+
+- **YOY Serious Casualties Growth Card:**
+  - Displays the percentage of year-over-year growth in serious casualties.
+
+### Slight Casualties Analysis
+
+- **Total Slight Casualties Card:**
+  - Provides insights into the total number of casualties where the accident severity is "Slight."
+
+- **YOY Slight Casualties Growth Card:**
+  - Shows the percentage of year-over-year growth in slight casualties.
+
+### Bar Chart: Casualties by Road Type
+
+- **X-Axis:**
+  - Road Type
+
+- **Y-Axis:**
+  - Total Casualties (cy casualties)
+
+### Map: Casualties by Location
+
+- **Latitude:**
+  - Average Latitude
+
+- **Longitude:**
+  - Average Longitude
+
+- **Tooltip:**
+  - Local Authority (District)
+ 
 ---
 
 ## Power BI Service Link
