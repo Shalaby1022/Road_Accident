@@ -5,7 +5,6 @@ This comprehensive Power BI project delves into the analysis of road accident da
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Project Steps](#project-steps)
 - [Functionalities](#functionalities)
 - [Data Transformations](#data-transformations)
